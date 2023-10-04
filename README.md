@@ -2,7 +2,10 @@
 
 ![Moitinho GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMoitinho&show_icons=true&theme=tokyonight)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-vitor-moitinho-barbosa-73a18a294)
+
+&nbsp;<a href="https://br.linkedin.com/in/joão-vitor-moitinho-barbosa-73a18a294">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 
 ### Programo em:
 
