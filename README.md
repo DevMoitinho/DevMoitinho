@@ -7,5 +7,5 @@
 </a>&nbsp;
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,cs,bash,blender,neovim,unity)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,py,cs,bash,blender,neovim,unity)](https://skillicons.dev)
 </div>
