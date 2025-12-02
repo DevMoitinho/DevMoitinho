@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou João Moitinho</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMoitinho&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMoitinho&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMoitinho&theme=tokyonight) 
 
 <div align="center">
